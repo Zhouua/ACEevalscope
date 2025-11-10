@@ -1,0 +1,42 @@
+{
+  "bullets": {
+    "best-00001": {
+      "id": "best-00001",
+      "section": "Best Practices",
+      "content": "When confirming the non-existence of an emoji, be concise and direct in your response. Simply state 'No phoenix emoji exists'.",
+      "helpful": 3,
+      "harmful": 0,
+      "neutral": 0,
+      "created_at": "2025-10-16T17:31:20.179761+00:00",
+      "updated_at": "2025-10-16T17:31:34.860967+00:00"
+    },
+    "best-00002": {
+      "id": "best-00002",
+      "section": "Best Practices",
+      "content": "[best-00002] Ensure accurate information is provided when confirming the existence of emojis. Correctly identify and provide the dragon emoji 🐉",
+      "helpful": 1,
+      "harmful": 0,
+      "neutral": 0,
+      "created_at": "2025-10-16T17:31:31.297239+00:00",
+      "updated_at": "2025-10-16T17:31:31.297255+00:00"
+    },
+    "best-00003": {
+      "id": "best-00003",
+      "section": "Best Practices",
+      "content": "[best-00003] Always provide the specific requested emoji, especially in cases where variations exist. Confirm and provide the mermaid emoji 🧜 (helpful=1, harmful=0, neutral=0)",
+      "helpful": 0,
+      "harmful": 0,
+      "neutral": 0,
+      "created_at": "2025-10-16T17:31:42.573336+00:00",
+      "updated_at": "2025-10-16T17:31:42.573353+00:00"
+    }
+  },
+  "sections": {
+    "Best Practices": [
+      "best-00001",
+      "best-00002",
+      "best-00003"
+    ]
+  },
+  "next_id": 3
+}

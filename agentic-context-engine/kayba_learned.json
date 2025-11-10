@@ -1,0 +1,20 @@
+{
+  "bullets": {
+    "response-00001": {
+      "id": "response-00001",
+      "section": "Response Guidelines",
+      "content": "Always provide a definitive answer based on the information found, even if it is a negative result.",
+      "helpful": 1,
+      "harmful": 0,
+      "neutral": 0,
+      "created_at": "2025-10-16T17:13:58.111580+00:00",
+      "updated_at": "2025-10-16T17:13:58.111596+00:00"
+    }
+  },
+  "sections": {
+    "Response Guidelines": [
+      "response-00001"
+    ]
+  },
+  "next_id": 1
+}
